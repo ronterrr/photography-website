@@ -1,5 +1,8 @@
 body {
-    background-color: beige;
+    background-image: url(https://images.pexels.com/photos/8274055/pexels-photo-8274055.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -32,7 +35,7 @@ body {
     border-radius: 50px;
     margin: 10px;
     margin-top: 30px;
-    border-style: solid;
+    border-style: ridge;
     border-width: 5px;
-    border-color: red;
+    border-color: brown;
 }
