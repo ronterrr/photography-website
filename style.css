@@ -15,3 +15,20 @@
 .main-header-text h3 {
     letter-spacing: 2px;
 }
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+
+.images img {
+    width: 300px;
+    border-radius: 50px;
+    margin: 10px;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+}
