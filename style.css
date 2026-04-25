@@ -1,0 +1,17 @@
+.main-header-text {
+    text-align: center;
+    color: grey;
+    background-color: black;
+    padding: 20px;
+    margin: -10px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.main-header-text h1 {
+    letter-spacing: 5px;
+    color: white;
+}
+
+.main-header-text h3 {
+    letter-spacing: 2px;
+}
