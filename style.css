@@ -41,7 +41,6 @@ body {
 
 .main-header-text a:hover{
     color: blue;
-    text-transform: uppercase;
 }
 
 .images ul {
