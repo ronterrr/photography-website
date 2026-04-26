@@ -97,3 +97,20 @@ body {
     margin-left: 40px;
     font-style: italic;
 }
+
+.footlinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 30px;
+}
+
+
+.footlinks a{
+    color: white;
+}
+
+.footlinks a:hover{
+    color: purple;
+}
