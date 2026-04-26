@@ -11,6 +11,7 @@ body {
     color: grey;
     background-color: black;
     padding: 20px;
+    padding-bottom: 50px;
     margin: -10px;
     font-family:'Times New Roman', Times, serif;
 }
@@ -24,14 +25,34 @@ body {
     letter-spacing: 2px;
 }
 
-.images {
+.main-header-text .nav-bar {
+    display: flex;
+    color: white;
+    gap: 10px;
+    font-size: 15pt;
+    justify-content: end;
+    margin-top: -120px;
+}
+
+.main-header-text a {
+    color: white;
+    text-decoration: none;
+}
+
+.main-header-text a:hover{
+    color: blue;
+    text-transform: uppercase;
+}
+
+.images ul {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .images img {
-    width: 300px;
+    /* width: 300px; */
+    height: 300px;
     border-radius: 50px;
     margin: 10px;
     margin-top: 30px;
@@ -39,3 +60,4 @@ body {
     border-width: 5px;
     border-color: brown;
 }
+
