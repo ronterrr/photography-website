@@ -50,6 +50,10 @@ body {
     flex-wrap: wrap;
 }
 
+.images ul li {
+    list-style: none;
+}
+
 .images img {
     /* width: 300px; */
     height: 300px;
