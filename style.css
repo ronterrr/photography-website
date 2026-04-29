@@ -86,7 +86,10 @@ body {
     background-color: rgba(0, 0, 0, 0.4);
 }
 
-
+#main-text a{
+    color: blue;
+    text-decoration: none;
+}
 
 
 
