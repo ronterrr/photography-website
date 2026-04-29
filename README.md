@@ -16,6 +16,7 @@ To run this project locally:
 
 ## REPOSITORY CONTENT
 This repository contains two html pages, one css document, a LICENSE file as well as an 'images' folder.
+---
 
 ### COPYRIGHT
 All photos used in this site are free for personal use and were sourced from https://pexels.com
