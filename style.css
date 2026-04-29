@@ -63,6 +63,12 @@ body {
     border-style: ridge;
     border-width: 5px;
     border-color: brown;
+    transition: height 0.3s ease-in;
+}
+
+.images img:hover{
+    height: 350px;
+    opacity: 1;
 }
 
 #main-text {
