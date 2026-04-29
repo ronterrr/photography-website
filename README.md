@@ -1,4 +1,5 @@
-# DAVENY'S PHOTOGRAPHY WEBSITE
+# DAVENY'S PHOTOGRAPHY WEBSITE - By Daveny
+
 #### https://github.com/ronterrr/photography-website
 
 ## ABOUT
